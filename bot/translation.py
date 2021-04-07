@@ -5,11 +5,15 @@
 class Translation(object):
     
     START_TEXT = """<b>Hai {}!!</b>
-<i>Am Just A Simple Hand Auto Filter Bot_ Bot For Searching Files From Channel...
+<i>ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ AᴜᴛᴏFɪʟᴛᴇʀ Bᴏᴛ
 
-Just Sent Any Text I Will Search In All Connected Chat And Reply You With The Message link
+Bᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ғʀᴏᴍ ᴘʀᴏᴠɪᴅᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs!
 
-You Can Even Connected To 3 Channels At A Time...</i>"""    
+🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @Deeks_04_8🕶️🕶️
+
+⭕ ♩๏īก ➠ @UM_Requests©™
+
+📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽...</i>"""    
     
     HELP_TEXT = """<i><u>Usage Guide</u></i>
 
@@ -28,13 +32,11 @@ Now You Are All Set And Ready To Go...
 Just Send Any Text Will Try To Lookup In Channel And Provide You The Link</i>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code>Adv Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ 🌹𝕭𝖔𝖙 𝕹𝖆𝖒𝖊</b> : <code>⛎Ⓜ® ᴀʟʟ ʟᴀɴɢᴜᴀɢᴇꜱ ᴍᴏᴠɪᴇꜱ ᴩʀᴏᴠɪᴅᴇʀ ʙᴏᴛ©®™</code>
 
-<b>➥ Creator</b> : <b><i><a herf="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ 𝕱𝖔𝖚𝖓𝖉𝖊𝖗</b> : <b><i><a herf="https://t.me/Deeks_04_8">⚔️𝕯𝚎𝚎𝚔𝚜𝚑𝚒𝚝𝚑💞⚔️</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ ⭕✯ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ✯⭕</b> : <b><i><a herf="https://t.me/joinchat/cfs6r6VwHfo2NDk1"</a></i></b>
 
-<b>➥ Library</b> : <i><a herf="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0</a></i>
-
-<b>➥ Source Code</b> : <i><a herf="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">GitHub</a></i>
+<b>➥ ⭕✯ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ✯⭕</b> : <b><i><a herf="https://t.me/joinchat/VGwfzOAOQMqlcTXC"</a></i></b>
 """
