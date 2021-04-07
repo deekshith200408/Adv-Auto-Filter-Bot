@@ -45,7 +45,7 @@ _Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram
 _Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)_
 
 ### Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deekshith200408/Adv-Auto-Filter-Bot)
 
 ### TODO :
 
